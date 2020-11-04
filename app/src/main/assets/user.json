@@ -1,0 +1,23 @@
+{
+	"id":11,
+	"active":true,
+	"createdAt":"2020-10-21 14:15 PM UTC","updatedAt":"2020-10-21 14:15 PM utc",
+	"version":0,
+	"createdby":0,
+	"fullname":"faruk",
+	"nickname":"faruk",
+	"username":"faruk",
+	"email":"ff1@gmail.com",
+	"password":"123456",
+	"usertype":"driver",
+	"mobile":"01853814484",
+	"profileimage":"c:\\fakepath\\2.jpg",
+	"presentAddress":"kamal ataturk,banani ,dhaka",
+	"permanentAddress":"deddedw",
+	"age":12,
+	"marritalStatus":"Married",
+	"nidNumber":"21",
+	"bloodGroup":"- - Select Group- -",
+	"driverLiecense":"1221111113",
+	"expiredDate":null
+}

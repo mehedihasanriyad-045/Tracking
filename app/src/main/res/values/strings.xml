@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Forgot">Forgot Your Password?</string>
+    <string name="SignUp">"Didn't have any account? Sign Up here."</string>
+    <string name="pasword"><i>password</i></string>
+    <string name="username"><i>username</i></string>
+</resources>
